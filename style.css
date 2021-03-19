@@ -65,6 +65,9 @@ body{
     border-radius: 10px;
     border: none;
 }
+.penguin-top-img{
+    width: 100%;
+}
 .penguin-card-img{
     width: 300px;
     margin:20px 20px 0 40px;
